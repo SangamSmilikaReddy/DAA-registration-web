@@ -167,6 +167,9 @@ body{
     .bbutton{
         left:350px;
     }
+    .middle .h1{
+        padding-left: 350px;
+    }
 }
 @media (max-width: 768px){
     .nav_part{
@@ -180,6 +183,9 @@ body{
     }
     .Intro p{
         padding-left: 50px;
+    }
+    .middle .h1{
+        padding-left: 120px;
     }
     .bbutton{
         left: 100px;
