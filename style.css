@@ -199,3 +199,31 @@ body{
         font-size: 50px;
     }
 }
+@media (max-width: 500px){
+    .nav_part{
+        margin-left: 0.5em;
+        font-size: 13px;
+    }
+    .Intro h1{
+        padding-left: 50px;
+    }
+    .Intro h2{
+        padding-left: 50px;
+    }
+    .Intro p{
+        padding-left: 50px;
+    }
+    .middle .h1{
+        padding-left: 1em;
+    }
+    .bbutton{
+        left: 5em;
+    }
+    .inner-box{
+        margin-top: 20px;
+        margin-left: 20px;
+    }
+    .box h1{
+        font-size: 40px;
+    }
+}
